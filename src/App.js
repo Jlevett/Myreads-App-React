@@ -1,7 +1,6 @@
 //External Dependencies
 import React from "react";
-import { Link } from "react-router-dom"
-import { Route } from "react-router-dom";
+import { Link, Route } from "react-router-dom"
 //Our Dependencies
 import * as BooksAPI from "./BooksAPI";
 import "./App.css";
